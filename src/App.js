@@ -14,11 +14,11 @@ export default function App() {
           target="_blank"
           rel="noreferrer"
         >
-          Lucy Nowland
+          Noxolo Gama
         </a>{" "}
         which is open-sourced on{" "}
         <a
-          href="https://github.com/lucynowland/react-weather"
+          href="https://github.com/Xolo29-star/react-weather"
           target="_blank"
           rel="noreferrer"
         >
